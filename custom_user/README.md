@@ -36,7 +36,7 @@ Edit files
 - [users/models.py](users/models.py)
 - [users/admin.py](users/models.py)
 
-### Edit [setting.py](custom_user/settings.py)
+### Edit [settings.py](custom_user/settings.py)
 
 Add `users` to `INSTALLED_APPS`
 
