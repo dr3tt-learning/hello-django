@@ -22,7 +22,7 @@ poetry shell
 
 ### Start Django project in current directory (`.`)
 ```
-django-admin startproject custom-user .
+django-admin startproject custom_user .
 ```
 
 ### Start `users` app
