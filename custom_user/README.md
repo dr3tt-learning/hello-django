@@ -11,7 +11,7 @@ This model uses the *email* as username.
 mkdir custom_user
 ```
 
-### Start poetry, install django and use start virtualenv
+### Start poetry, install django and use virtualenv
 
 ```
 cd custom_user
